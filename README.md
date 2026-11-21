@@ -38,6 +38,13 @@ En [`plantillas/`](plantillas/) hay plantillas en Markdown que podés copiar y a
 | [Matriz de trazabilidad](plantillas/12-matriz-de-trazabilidad.md) | Gestión | Objetivo → requisito → diseño → prueba. |
 | [Checklist de cierre de discovery](plantillas/13-checklist-cierre-discovery.md) | Cierre | ¿Estamos listos para estimar y construir? |
 
+## Asistente virtual de discovery
+
+En [`asistente/`](asistente/) está el diseño de un asistente conversacional que entrevista al cliente, cubre todo el relevamiento y genera un Documento de Discovery y Relevamiento completo:
+
+- [System prompt del asistente](asistente/system-prompt.md)
+- [Guía de implementación](asistente/README.md): desde un prototipo sin código hasta una aplicación propia con la API.
+
 ## Estado
 
 🌱 Primera versión: base de investigación. Ideas para seguir:
